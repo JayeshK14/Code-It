@@ -56,8 +56,7 @@ This project is a high-performance search engine built using the MERN (MongoDB, 
 
 ## Usage
 
-- Access the frontend at `http://localhost:3000`.
-- The backend API runs at `http://localhost:your_port`.
+- Access the frontend at `https://code-it-289o.onrender.com`.
 
 ## Contributing
 
